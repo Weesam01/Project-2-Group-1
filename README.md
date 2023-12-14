@@ -9,24 +9,24 @@ The application is prepared and trained on financial dataset that is a cut down 
 ### Some Examples:
 * Time Series Analysis:
 
-<img src="Time1" width="" height="250">
+<img src="Time1.png" width="" height="250">
 
-<img src="Time2" width="" height="250">
+<img src="Time2.png" width="" height="250">
 
 * Neural Netwworks:
 
-<img src="Neural1" width="" height="250">
+<img src="Neural1.png" width="" height="250">
 
-<img src="Neural2" width="" height="250">
+<img src="Neural2.png" width="" height="250">
 
 * Supervised Learning:
 
-<img src="Super1" width="" height="250">
+<img src="Super1.png" width="" height="250">
 
-<img src="Super2" width="" height="250">
+<img src="Super2.png" width="" height="250">
 
 * Unsupervised Learning:
 
-<img src="Unsuper1" width="" height="250">
+<img src="Unsuper1.png" width="" height="250">
 
-<img src="Unsuper2" width="" height="250">
+<img src="Unsuper2.png" width="" height="250">
